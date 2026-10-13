@@ -1,0 +1,28 @@
+{
+  "name": "grand-line-database-command-center",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Grand Line Database Command Center — a One Piece inspired Firebase Auth + Cloud Firestore demonstration.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "firebase": "^10.14.1",
+    "framer-motion": "^11.11.9",
+    "lucide-react": "^0.451.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.9"
+  }
+}
